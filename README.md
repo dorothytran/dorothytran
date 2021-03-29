@@ -3,4 +3,5 @@
 ### How's it going?
 I am currently a second-year student pursuing Software Engineering student at Carleton University 💻
 
+## Contact me
 Connect with me on my [LinkedIn](https://www.linkedin.com/in/dorothy-tran-124a381b7/) ✨
