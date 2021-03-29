@@ -1,5 +1,4 @@
-![okkk](https://user-images.githubusercontent.com/62575445/112886619-27b0d700-90a0-11eb-8167-2232ba0189f9.PNG)
-
+![ok](https://user-images.githubusercontent.com/62575445/112886721-4b741d00-90a0-11eb-81f1-bcce6c76fce1.PNG)
 
 ### What's up?
 
