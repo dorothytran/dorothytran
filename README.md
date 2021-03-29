@@ -4,6 +4,7 @@
 
 💻 I am currently working with Java, Python and C programming for projects and laboratory work
 
+
 ### Contact me
 👩🏻‍💻 Connect with me on my [LinkedIn](https://www.linkedin.com/in/dorothy-tran-124a381b7/)
 
