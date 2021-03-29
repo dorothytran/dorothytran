@@ -2,7 +2,7 @@
 ## How's it going?
 📚 I am a second-year student pursuing Software Engineering student at Carleton University
 
-💻 I am currently working with Java, Python and C programming 
+💻 I am currently working with Java, Python and C programming for projects and laboratory work
 
 ### Contact me! 
 👩🏻‍💻 Connect with me on my [LinkedIn](https://www.linkedin.com/in/dorothy-tran-124a381b7/)
