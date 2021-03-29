@@ -1,5 +1,6 @@
-![okay](https://user-images.githubusercontent.com/62575445/112886296-bcff9b80-909f-11eb-93b1-5eb61aa0d2ea.PNG)
-### Hi there! 👋
+![ok](https://user-images.githubusercontent.com/62575445/112886491-0223cd80-90a0-11eb-8c93-6acf40459cf2.PNG)
+
+### What's up?
 
 I am currently a second-year student pursuing Software Engineering student at Carleton University 💻
 
