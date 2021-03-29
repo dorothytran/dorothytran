@@ -5,4 +5,5 @@
 💻 I am currently working with Java, Python and C programming 
 
 ### 📬 Contact me! 
-Connect with me on my [LinkedIn](https://www.linkedin.com/in/dorothy-tran-124a381b7/) ✨
+Connect with me on my [LinkedIn](https://www.linkedin.com/in/dorothy-tran-124a381b7/) 👩🏻‍💻
+E-mail: dorothytraan@gmail.com
